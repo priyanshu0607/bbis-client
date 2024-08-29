@@ -1,0 +1,76 @@
+.view-bookings-container {
+    display: flex;
+    
+}
+
+.content {
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table {
+    width: 100%;
+}
+.action-button {
+  margin: 0 5px; /* Adjust the value as needed */
+}
+.action-button2 {
+  margin: 2px; /* Adjust the value as needed */
+}
+
+.table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.table th {
+    background-color: #f2f2f2;
+}
+.table td {
+    background-color: #f2f2f2;
+}
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+  }
+  
+  .search-input {
+    width: 500px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  .filter-select{
+    width: 250px;
+    margin-left: 30px;
+  }
+  .custom-date-range {
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .date-input {
+    margin-left: 20px;
+    padding: 10px;
+    width: 150px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  

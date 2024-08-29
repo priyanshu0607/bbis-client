@@ -1,0 +1,30 @@
+.content5 {
+    margin-left: 250px; /* Adjust if you have a sidebar with fixed width */
+    padding: 20px;
+  }
+  
+  .table5 {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table5 th, .table td {
+    border: 1px solid #ddd;
+    padding: 5px;
+  }
+  
+  .table5 th {
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  
+  .table5 td {
+    text-align: center;
+    height: 7px;
+  }
+  
+  .btn {
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
